@@ -1,0 +1,20 @@
+# Main libraries
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+langchain==0.0.27
+motor==3.2.0
+python-telegram-bot==20.5
+python-dotenv==1.0.0
+httpx==0.24.1
+
+# Open-source LLM integration
+langchain-community==0.0.10
+sentence-transformers==2.2.2
+huggingface-hub==0.20.1
+
+# Scheduling
+apscheduler==3.10.1
+
+# Development
+pytest==7.4.0
